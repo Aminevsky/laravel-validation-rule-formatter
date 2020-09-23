@@ -1,6 +1,6 @@
 {
   "name": "aminevsky/laravel-validation-rule-formatter",
-  "description": "An Extended library for Laravel Validator",
+  "description": "A Formatter of Laravel Validation Rule",
   "type": "library",
     "license": "MIT",
     "authors": [
